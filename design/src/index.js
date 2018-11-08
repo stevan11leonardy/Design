@@ -5,9 +5,7 @@ import ImgMediaCard from './design';
 class Render extends React.Component {
     render(){
         return(
-            <div>
-                <ImgMediaCard/>
-            </div>
+            <ImgMediaCard/>
         )
     }
 }
